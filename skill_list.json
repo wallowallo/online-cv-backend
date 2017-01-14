@@ -1,0 +1,13 @@
+{"skill":"Javascript","level":"3", "note":"Javascript is my main focus when it comes to programming languages."}
+{"skill":"Typescript","level":"3", "note":"Typescript is a superset of JS."}
+{"skill":"Node","level":"2", "note":"Node"}
+{"skill":"Lean Agile","level":"4", "note":"Lean Agile is a brilliant way to work."}
+{"skill":"Angular","level":"3", "note":"Angular is a powerful framework."}
+{"skill":"MongoDB","level":"2", "note":"Know how to save and retrieve data to mongoDB."}
+{"skill":"HTML","level":"3", "note":"Decent at HTML."}
+{"skill":"CSS","level":"2", "note":"My knowledge of CSS is basic."}
+{"skill":"RxJS","level":"2", "note":"Know a bit about observables and its properties."}
+{"skill":"Git","level":"3", "note":"Know how to clone, upload, pull request."}
+{"skill":"Bash","level":"2", "note":"Know enough to make dir/files, upload to git"}
+{"skill":"NVIM","level":"2", "note":"Missing some hotkey knowledge."}
+
